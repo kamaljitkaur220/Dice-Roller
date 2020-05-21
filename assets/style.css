@@ -1,0 +1,57 @@
+* {box-sizing: border-box;}
+
+body {
+    display: flex;     
+     justify-content: center; 
+     padding-top: 10px;   
+   
+     background: url("https://thumbs.dreamstime.com/b/green-casino-table-dice-background-42248968.jpg");
+     
+}
+
+#numberofRolls
+{
+    font-weight: bold;
+    font-size: larger;
+    color:white;
+}
+#total-number{
+    font-weight: bold;
+    color:white;
+    font-size: larger;
+}
+
+#roll {
+    background-color: black;
+    color:white;
+    width: 100px;
+    font-size: larger;
+   
+}
+
+#total-rolls {
+    background-color:black;
+    color: white;
+    font-size: larger;
+     
+   
+}
+#total
+{
+    font-weight: bold;
+    color:white;
+    font-size: larger;
+    
+}
+#Result{
+    color:white;
+    font-weight: bold;
+    font-size: larger;
+    
+}
+
+#Reset-Button {
+    background-color: black;
+    color: white;
+    width: 100px;
+}
